@@ -1,47 +1,53 @@
-# 🍕 Pizza Store Sales Report  
+# 🍕 **Pizza Store Sales Analysis Report**  
 
-Welcome to the **Pizza Store Sales Report**! This Power BI dashboard provides a detailed analysis of sales performance, helping business owners make informed decisions to boost profits and enhance customer satisfaction.  
+![Demo](https://github.com/MostafaOsama0/PowerBi/blob/Main/Pizza%20Store.gif)  
 
----
-
-## 🖼️ Screenshots  
-
-### **1️⃣ Home Page**  
-![Home Page](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Pizza%20Store%20Project.png)  
-
-### **2️⃣ Sales Performance**  
-![Sales Performance](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Screenshot%202024-10-15%20154238.png)  
+Welcome to the **Pizza Store Sales Report**! This project, built using **Power BI**, provides comprehensive insights into the store’s performance, helping management make data-driven decisions.  
 
 ---
 
-## 📈 Overview  
-This report delivers **actionable insights** through two primary tabs:  
+## 📝 **Overview**  
+This dashboard focuses on analyzing sales data, product performance, and trends over time. Key insights are provided through two main views:  
 
-1. **Home Page** – A high-level overview of essential business metrics.  
-2. **Sales Performance** – A deep dive into product-wise, regional, and monthly sales trends.  
-
-The **Pizza Store Sales Report** provides a clear picture of customer behavior, top-performing products, and key sales channels.  
+1. **Home Page**: High-level overview of key metrics and store performance.  
+2. **Sales Performance**: Deep dive into product, regional, and category-wise sales data.  
 
 ---
 
+## 📊 **Dashboard Views**  
 
-![Demo GIF](https://github.com/MostafaOsama0/PowerBi/blob/main/Pizza%20Store.gif)  
+### 🏠 **Home Page**  
+> **Summary**: A high-level dashboard summarizing the most critical KPIs and recent performance trends.  
+#### **Features**:  
+- 📦 **Total Sales**  
+- 📊 **Number of Orders**  
+- 🌱 **Customer Growth Trends**  
+- 📆 **Filters for Date Range & Categories**  
+
+![Home Page](https://github.com/MostafaOsama0/PowerBi/blob/Main/Images/Pizza%20Store%20Project.png)  
+
 ---
 
-## 📊 Key Metrics  
+### 📈 **Sales Performance**  
+> **Summary**: A detailed analysis of sales performance across various products, regions, and time periods.  
+#### **Features**:  
+- 🛍️ **Product-wise Sales & Revenue**  
+- 🗺️ **Region-based Sales Breakdown**  
+- 📅 **Monthly and Quarterly Comparisons**  
+- 🏅 **Top Products and Key Customer Segments**  
 
-The dashboard highlights several important metrics:  
-- **Total Sales** – Track overall revenue over different time periods.  
-- **Gross Profit** – Monitor profitability across product categories.  
-- **Top Products** – Identify the best-selling items.  
-- **Sales Trends** – Analyze performance by day, month, and region.  
-- **Channel Performance** – Compare online vs. in-store sales.  
+![Sales Performance](https://github.com/MostafaOsama0/PowerBi/blob/Main/Images/Screenshot%202024-10-15%20154238.png)  
 
 ---
 
-## ✨ Features  
+## ⚙️ **Technology Stack**  
+- **Power BI**: Interactive dashboard development  
+- **Power Query / Excel**: Data cleaning and preparation  
+- **GitHub**: Version control and project collaboration  
 
-- **Interactive Dashboard**: Use filters to explore data by region, product, and time period.  
-- **Drill-Through Capabilities**: Dive deeper into specific products and trends.  
-- **Real-Time Updates**: Automatically refresh with the latest data.  
-- **Export Option**: Export visuals and reports as PDFs or Excel files.  
+---
+
+## 🛠️ **Setup Instructions**  
+1. **Clone the Repository**:  
+   ```bash
+   https://github.com/MostafaOsama0/PowerBi
