@@ -19,10 +19,10 @@ The **Pizza Store Sales Report** provides a clear picture of customer behavior, 
 ## 🖼️ Screenshots  
 
 ### **1️⃣ Home Page**  
-![Home Page](./assets/home_page.png)  
+![Home Page](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Pizza%20Store%20Project.png)  
 
 ### **2️⃣ Sales Performance**  
-![Sales Performance](./assets/sales_performance.png)  
+![Sales Performance](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Screenshot%202024-10-15%20154238.png)  
 
 ---
 
