@@ -45,6 +45,3 @@ The dashboard highlights several important metrics:
 - **Drill-Through Capabilities**: Dive deeper into specific products and trends.  
 - **Real-Time Updates**: Automatically refresh with the latest data.  
 - **Export Option**: Export visuals and reports as PDFs or Excel files.  
-
----
-   git clone https://github.com/yourusername/pizza-store-sales-report.git
