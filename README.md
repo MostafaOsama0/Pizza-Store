@@ -1,8 +1,16 @@
 # 🍕 Pizza Store Sales Report  
 
-![Demo GIF](https://github.com/MostafaOsama0/PowerBi/blob/main/Pizza%20Store.gif)  
-
 Welcome to the **Pizza Store Sales Report**! This Power BI dashboard provides a detailed analysis of sales performance, helping business owners make informed decisions to boost profits and enhance customer satisfaction.  
+
+---
+
+## 🖼️ Screenshots  
+
+### **1️⃣ Home Page**  
+![Home Page](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Pizza%20Store%20Project.png)  
+
+### **2️⃣ Sales Performance**  
+![Sales Performance](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Screenshot%202024-10-15%20154238.png)  
 
 ---
 
@@ -16,14 +24,8 @@ The **Pizza Store Sales Report** provides a clear picture of customer behavior, 
 
 ---
 
-## 🖼️ Screenshots  
 
-### **1️⃣ Home Page**  
-![Home Page](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Pizza%20Store%20Project.png)  
-
-### **2️⃣ Sales Performance**  
-![Sales Performance](https://github.com/MostafaOsama0/PowerBi/blob/main/Images/Screenshot%202024-10-15%20154238.png)  
-
+![Demo GIF](https://github.com/MostafaOsama0/PowerBi/blob/main/Pizza%20Store.gif)  
 ---
 
 ## 📊 Key Metrics  
