@@ -1,6 +1,6 @@
 # 🍕 Pizza Store Sales Report  
 
-![Demo GIF](./assets/demo.gif)  
+![Demo GIF](https://github.com/MostafaOsama0/PowerBi/blob/main/Pizza%20Store.gif)  
 
 Welcome to the **Pizza Store Sales Report**! This Power BI dashboard provides a detailed analysis of sales performance, helping business owners make informed decisions to boost profits and enhance customer satisfaction.  
 
