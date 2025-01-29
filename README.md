@@ -1,13 +1,13 @@
 # 🍕 **Pizza Store Sales Analysis Report**  
 
-![Demo](https://github.com/MostafaOsama0/PowerBi/blob/Main/Pizza%20Store.gif)  
-
 Welcome to the **Pizza Store Sales Report**! This project, built using **Power BI**, provides comprehensive insights into the store’s performance, helping management make data-driven decisions.  
 
 ---
 
 ## 📝 **Overview**  
 This dashboard focuses on analyzing sales data, product performance, and trends over time. Key insights are provided through two main views:  
+
+![Demo](https://github.com/MostafaOsama0/PowerBi/blob/Main/Pizza%20Store.gif)  
 
 1. **Home Page**: High-level overview of key metrics and store performance.  
 2. **Sales Performance**: Deep dive into product, regional, and category-wise sales data.  
