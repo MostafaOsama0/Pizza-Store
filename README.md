@@ -47,7 +47,21 @@ This dashboard focuses on analyzing sales data, product performance, and trends 
 
 ---
 
-## 🛠️ **Setup Instructions**  
+## 🛠️ Setup Instructions  
 1. **Clone the Repository**:  
    ```bash
-   https://github.com/MostafaOsama0/PowerBi
+   git clone https://github.com/MostafaOsama0/Pizza-Store/blob/Main/Pizza%20Store%20Power%20Bi.pbix
+   ```
+2. **Open the Power BI File**: Navigate to the project directory and open the Power BI file.
+3. **Explore Dashboards**: Use the interactive reports to analyze the data.
+
+---
+
+## 📞 Contact  
+For any questions or feedback, feel free to connect:
+- **GitHub**: [MostafaOsama0](https://github.com/MostafaOsama0)
+- **Linkedin**:[Mostafa Osama](https://www.linkedin.com/in/mustafaosama0)
+- **Email**: mostafaosama7213@gmail.com
+- **Phone**: +20 01271239591
+
+
